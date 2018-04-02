@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-api": "^3.0.0-beta.21"
+    "json-api": "^3.0.0-beta.21",
+    "mongoose": "^5.0.12"
   },
   "devDependencies": {
     "typescript": "^2.8.1"
